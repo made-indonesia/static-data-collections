@@ -1,0 +1,1212 @@
+[
+    {
+        "label": "🇦🇫 Afghanistan (+93)",
+        "value": "AF",
+        "countryCode": "(+93)"
+    },
+    {
+        "label": "🇦🇱 Albania (+355)",
+        "value": "AL",
+        "countryCode": "(+355)"
+    },
+    {
+        "label": "🇩🇿 Algeria (+213)",
+        "value": "DZ",
+        "countryCode": "(+213)"
+    },
+    {
+        "label": "🇦🇸 AmericanSamoa (+1684)",
+        "value": "AS",
+        "countryCode": "(+1684)"
+    },
+    {
+        "label": "🇦🇩 Andorra (+376)",
+        "value": "AD",
+        "countryCode": "(+376)"
+    },
+    {
+        "label": "🇦🇴 Angola (+244)",
+        "value": "AO",
+        "countryCode": "(+244)"
+    },
+    {
+        "label": "🇦🇮 Anguilla (+1264)",
+        "value": "AI",
+        "countryCode": "(+1264)"
+    },
+    {
+        "label": "🇦🇶 Antarctica (+672)",
+        "value": "AQ",
+        "countryCode": "(+672)"
+    },
+    {
+        "label": "🇦🇬 Antigua and Barbuda (+1268)",
+        "value": "AG",
+        "countryCode": "(+1268)"
+    },
+    {
+        "label": "🇦🇷 Argentina (+54)",
+        "value": "AR",
+        "countryCode": "(+54)"
+    },
+    {
+        "label": "🇦🇲 Armenia (+374)",
+        "value": "AM",
+        "countryCode": "(+374)"
+    },
+    {
+        "label": "🇦🇼 Aruba (+297)",
+        "value": "AW",
+        "countryCode": "(+297)"
+    },
+    {
+        "label": "🇦🇺 Australia (+61)",
+        "value": "AU",
+        "countryCode": "(+61)"
+    },
+    {
+        "label": "🇦🇹 Austria (+43)",
+        "value": "AT",
+        "countryCode": "(+43)"
+    },
+    {
+        "label": "🇦🇿 Azerbaijan (+994)",
+        "value": "AZ",
+        "countryCode": "(+994)"
+    },
+    {
+        "label": "🇧🇸 Bahamas (+1242)",
+        "value": "BS",
+        "countryCode": "(+1242)"
+    },
+    {
+        "label": "🇧🇭 Bahrain (+973)",
+        "value": "BH",
+        "countryCode": "(+973)"
+    },
+    {
+        "label": "🇧🇩 Bangladesh (+880)",
+        "value": "BD",
+        "countryCode": "(+880)"
+    },
+    {
+        "label": "🇧🇧 Barbados (+1246)",
+        "value": "BB",
+        "countryCode": "(+1246)"
+    },
+    {
+        "label": "🇧🇾 Belarus (+375)",
+        "value": "BY",
+        "countryCode": "(+375)"
+    },
+    {
+        "label": "🇧🇪 Belgium (+32)",
+        "value": "BE",
+        "countryCode": "(+32)"
+    },
+    {
+        "label": "🇧🇿 Belize (+501)",
+        "value": "BZ",
+        "countryCode": "(+501)"
+    },
+    {
+        "label": "🇧🇯 Benin (+229)",
+        "value": "BJ",
+        "countryCode": "(+229)"
+    },
+    {
+        "label": "🇧🇲 Bermuda (+1441)",
+        "value": "BM",
+        "countryCode": "(+1441)"
+    },
+    {
+        "label": "🇧🇹 Bhutan (+975)",
+        "value": "BT",
+        "countryCode": "(+975)"
+    },
+    {
+        "label": "🇧🇴 Bolivia, Plurinational State of (+591)",
+        "value": "BO",
+        "countryCode": "(+591)"
+    },
+    {
+        "label": "🇧🇦 Bosnia and Herzegovina (+387)",
+        "value": "BA",
+        "countryCode": "(+387)"
+    },
+    {
+        "label": "🇧🇼 Botswana (+267)",
+        "value": "BW",
+        "countryCode": "(+267)"
+    },
+    {
+        "label": "🇧🇷 Brazil (+55)",
+        "value": "BR",
+        "countryCode": "(+55)"
+    },
+    {
+        "label": "🇮🇴 British Indian Ocean Territory (+246)",
+        "value": "IO",
+        "countryCode": "(+246)"
+    },
+    {
+        "label": "🇧🇳 Brunei Darussalam (+673)",
+        "value": "BN",
+        "countryCode": "(+673)"
+    },
+    {
+        "label": "🇧🇬 Bulgaria (+359)",
+        "value": "BG",
+        "countryCode": "(+359)"
+    },
+    {
+        "label": "🇧🇫 Burkina Faso (+226)",
+        "value": "BF",
+        "countryCode": "(+226)"
+    },
+    {
+        "label": "🇧🇮 Burundi (+257)",
+        "value": "BI",
+        "countryCode": "(+257)"
+    },
+    {
+        "label": "🇰🇭 Cambodia (+855)",
+        "value": "KH",
+        "countryCode": "(+855)"
+    },
+    {
+        "label": "🇨🇲 Cameroon (+237)",
+        "value": "CM",
+        "countryCode": "(+237)"
+    },
+    {
+        "label": "🇨🇦 Canada (+1)",
+        "value": "CA",
+        "countryCode": "(+1)"
+    },
+    {
+        "label": "🇨🇻 Cape Verde (+238)",
+        "value": "CV",
+        "countryCode": "(+238)"
+    },
+    {
+        "label": "🇰🇾 Cayman Islands (+345)",
+        "value": "KY",
+        "countryCode": "(+345)"
+    },
+    {
+        "label": "🇨🇫 Central African Republic (+236)",
+        "value": "CF",
+        "countryCode": "(+236)"
+    },
+    {
+        "label": "🇹🇩 Chad (+235)",
+        "value": "TD",
+        "countryCode": "(+235)"
+    },
+    {
+        "label": "🇨🇱 Chile (+56)",
+        "value": "CL",
+        "countryCode": "(+56)"
+    },
+    {
+        "label": "🇨🇳 China (+86)",
+        "value": "CN",
+        "countryCode": "(+86)"
+    },
+    {
+        "label": "🇨🇽 Christmas Island (+61)",
+        "value": "CX",
+        "countryCode": "(+61)"
+    },
+    {
+        "label": "🇨🇨 Cocos (Keeling) Islands (+61)",
+        "value": "CC",
+        "countryCode": "(+61)"
+    },
+    {
+        "label": "🇨🇴 Colombia (+57)",
+        "value": "CO",
+        "countryCode": "(+57)"
+    },
+    {
+        "label": "🇰🇲 Comoros (+269)",
+        "value": "KM",
+        "countryCode": "(+269)"
+    },
+    {
+        "label": "🇨🇬 Congo (+242)",
+        "value": "CG",
+        "countryCode": "(+242)"
+    },
+    {
+        "label": "🇨🇩 Congo, The Democratic Republic of the (+243)",
+        "value": "CD",
+        "countryCode": "(+243)"
+    },
+    {
+        "label": "🇨🇰 Cook Islands (+682)",
+        "value": "CK",
+        "countryCode": "(+682)"
+    },
+    {
+        "label": "🇨🇷 Costa Rica (+506)",
+        "value": "CR",
+        "countryCode": "(+506)"
+    },
+    {
+        "label": "🇨🇮 Cote d'Ivoire (+225)",
+        "value": "CI",
+        "countryCode": "(+225)"
+    },
+    {
+        "label": "🇭🇷 Croatia (+385)",
+        "value": "HR",
+        "countryCode": "(+385)"
+    },
+    {
+        "label": "🇨🇺 Cuba (+53)",
+        "value": "CU",
+        "countryCode": "(+53)"
+    },
+    {
+        "label": "🇨🇾 Cyprus (+357)",
+        "value": "CY",
+        "countryCode": "(+357)"
+    },
+    {
+        "label": "🇨🇿 Czech Republic (+420)",
+        "value": "CZ",
+        "countryCode": "(+420)"
+    },
+    {
+        "label": "🇩🇰 Denmark (+45)",
+        "value": "DK",
+        "countryCode": "(+45)"
+    },
+    {
+        "label": "🇩🇯 Djibouti (+253)",
+        "value": "DJ",
+        "countryCode": "(+253)"
+    },
+    {
+        "label": "🇩🇲 Dominica (+1767)",
+        "value": "DM",
+        "countryCode": "(+1767)"
+    },
+    {
+        "label": "🇩🇴 Dominican Republic (+1849)",
+        "value": "DO",
+        "countryCode": "(+1849)"
+    },
+    {
+        "label": "🇪🇨 Ecuador (+593)",
+        "value": "EC",
+        "countryCode": "(+593)"
+    },
+    {
+        "label": "🇪🇬 Egypt (+20)",
+        "value": "EG",
+        "countryCode": "(+20)"
+    },
+    {
+        "label": "🇸🇻 El Salvador (+503)",
+        "value": "SV",
+        "countryCode": "(+503)"
+    },
+    {
+        "label": "🇬🇶 Equatorial Guinea (+240)",
+        "value": "GQ",
+        "countryCode": "(+240)"
+    },
+    {
+        "label": "🇪🇷 Eritrea (+291)",
+        "value": "ER",
+        "countryCode": "(+291)"
+    },
+    {
+        "label": "🇪🇪 Estonia (+372)",
+        "value": "EE",
+        "countryCode": "(+372)"
+    },
+    {
+        "label": "🇪🇹 Ethiopia (+251)",
+        "value": "ET",
+        "countryCode": "(+251)"
+    },
+    {
+        "label": "🇫🇰 Falkland Islands (Malvinas) (+500)",
+        "value": "FK",
+        "countryCode": "(+500)"
+    },
+    {
+        "label": "🇫🇴 Faroe Islands (+298)",
+        "value": "FO",
+        "countryCode": "(+298)"
+    },
+    {
+        "label": "🇫🇯 Fiji (+679)",
+        "value": "FJ",
+        "countryCode": "(+679)"
+    },
+    {
+        "label": "🇫🇮 Finland (+358)",
+        "value": "FI",
+        "countryCode": "(+358)"
+    },
+    {
+        "label": "🇫🇷 France (+33)",
+        "value": "FR",
+        "countryCode": "(+33)"
+    },
+    {
+        "label": "🇬🇫 French Guiana (+594)",
+        "value": "GF",
+        "countryCode": "(+594)"
+    },
+    {
+        "label": "🇵🇫 French Polynesia (+689)",
+        "value": "PF",
+        "countryCode": "(+689)"
+    },
+    {
+        "label": "🇬🇦 Gabon (+241)",
+        "value": "GA",
+        "countryCode": "(+241)"
+    },
+    {
+        "label": "🇬🇲 Gambia (+220)",
+        "value": "GM",
+        "countryCode": "(+220)"
+    },
+    {
+        "label": "🇬🇪 Georgia (+995)",
+        "value": "GE",
+        "countryCode": "(+995)"
+    },
+    {
+        "label": "🇩🇪 Germany (+49)",
+        "value": "DE",
+        "countryCode": "(+49)"
+    },
+    {
+        "label": "🇬🇭 Ghana (+233)",
+        "value": "GH",
+        "countryCode": "(+233)"
+    },
+    {
+        "label": "🇬🇮 Gibraltar (+350)",
+        "value": "GI",
+        "countryCode": "(+350)"
+    },
+    {
+        "label": "🇬🇷 Greece (+30)",
+        "value": "GR",
+        "countryCode": "(+30)"
+    },
+    {
+        "label": "🇬🇱 Greenland (+299)",
+        "value": "GL",
+        "countryCode": "(+299)"
+    },
+    {
+        "label": "🇬🇩 Grenada (+1473)",
+        "value": "GD",
+        "countryCode": "(+1473)"
+    },
+    {
+        "label": "🇬🇵 Guadeloupe (+590)",
+        "value": "GP",
+        "countryCode": "(+590)"
+    },
+    {
+        "label": "🇬🇺 Guam (+1671)",
+        "value": "GU",
+        "countryCode": "(+1671)"
+    },
+    {
+        "label": "🇬🇹 Guatemala (+502)",
+        "value": "GT",
+        "countryCode": "(+502)"
+    },
+    {
+        "label": "🇬🇬 Guernsey (+44)",
+        "value": "GG",
+        "countryCode": "(+44)"
+    },
+    {
+        "label": "🇬🇳 Guinea (+224)",
+        "value": "GN",
+        "countryCode": "(+224)"
+    },
+    {
+        "label": "🇬🇼 Guinea-Bissau (+245)",
+        "value": "GW",
+        "countryCode": "(+245)"
+    },
+    {
+        "label": "🇬🇾 Guyana (+592)",
+        "value": "GY",
+        "countryCode": "(+592)"
+    },
+    {
+        "label": "🇭🇹 Haiti (+509)",
+        "value": "HT",
+        "countryCode": "(+509)"
+    },
+    {
+        "label": "🇻🇦 Holy See (Vatican City State) (+379)",
+        "value": "VA",
+        "countryCode": "(+379)"
+    },
+    {
+        "label": "🇭🇳 Honduras (+504)",
+        "value": "HN",
+        "countryCode": "(+504)"
+    },
+    {
+        "label": "🇭🇰 Hong Kong (+852)",
+        "value": "HK",
+        "countryCode": "(+852)"
+    },
+    {
+        "label": "🇭🇺 Hungary (+36)",
+        "value": "HU",
+        "countryCode": "(+36)"
+    },
+    {
+        "label": "🇮🇸 Iceland (+354)",
+        "value": "IS",
+        "countryCode": "(+354)"
+    },
+    {
+        "label": "🇮🇳 India (+91)",
+        "value": "IN",
+        "countryCode": "(+91)"
+    },
+    {
+        "label": "🇮🇩 Indonesia (+62)",
+        "value": "ID",
+        "countryCode": "(+62)"
+    },
+    {
+        "label": "🇮🇷 Iran, Islamic Republic of (+98)",
+        "value": "IR",
+        "countryCode": "(+98)"
+    },
+    {
+        "label": "🇮🇶 Iraq (+964)",
+        "value": "IQ",
+        "countryCode": "(+964)"
+    },
+    {
+        "label": "🇮🇪 Ireland (+353)",
+        "value": "IE",
+        "countryCode": "(+353)"
+    },
+    {
+        "label": "🇮🇲 Isle of Man (+44)",
+        "value": "IM",
+        "countryCode": "(+44)"
+    },
+    {
+        "label": "🇮🇱 Israel (+972)",
+        "value": "IL",
+        "countryCode": "(+972)"
+    },
+    {
+        "label": "🇮🇹 Italy (+39)",
+        "value": "IT",
+        "countryCode": "(+39)"
+    },
+    {
+        "label": "🇯🇲 Jamaica (+1876)",
+        "value": "JM",
+        "countryCode": "(+1876)"
+    },
+    {
+        "label": "🇯🇵 Japan (+81)",
+        "value": "JP",
+        "countryCode": "(+81)"
+    },
+    {
+        "label": "🇯🇪 Jersey (+44)",
+        "value": "JE",
+        "countryCode": "(+44)"
+    },
+    {
+        "label": "🇯🇴 Jordan (+962)",
+        "value": "JO",
+        "countryCode": "(+962)"
+    },
+    {
+        "label": "🇰🇿 Kazakhstan (+77)",
+        "value": "KZ",
+        "countryCode": "(+77)"
+    },
+    {
+        "label": "🇰🇪 Kenya (+254)",
+        "value": "KE",
+        "countryCode": "(+254)"
+    },
+    {
+        "label": "🇰🇮 Kiribati (+686)",
+        "value": "KI",
+        "countryCode": "(+686)"
+    },
+    {
+        "label": "🇰🇵 Korea, Democratic People's Republic of (+850)",
+        "value": "KP",
+        "countryCode": "(+850)"
+    },
+    {
+        "label": "🇰🇷 Korea, Republic of (+82)",
+        "value": "KR",
+        "countryCode": "(+82)"
+    },
+    {
+        "label": "🇰🇼 Kuwait (+965)",
+        "value": "KW",
+        "countryCode": "(+965)"
+    },
+    {
+        "label": "🇰🇬 Kyrgyzstan (+996)",
+        "value": "KG",
+        "countryCode": "(+996)"
+    },
+    {
+        "label": "🇱🇦 Lao People's Democratic Republic (+856)",
+        "value": "LA",
+        "countryCode": "(+856)"
+    },
+    {
+        "label": "🇱🇻 Latvia (+371)",
+        "value": "LV",
+        "countryCode": "(+371)"
+    },
+    {
+        "label": "🇱🇧 Lebanon (+961)",
+        "value": "LB",
+        "countryCode": "(+961)"
+    },
+    {
+        "label": "🇱🇸 Lesotho (+266)",
+        "value": "LS",
+        "countryCode": "(+266)"
+    },
+    {
+        "label": "🇱🇷 Liberia (+231)",
+        "value": "LR",
+        "countryCode": "(+231)"
+    },
+    {
+        "label": "🇱🇾 Libyan Arab Jamahiriya (+218)",
+        "value": "LY",
+        "countryCode": "(+218)"
+    },
+    {
+        "label": "🇱🇮 Liechtenstein (+423)",
+        "value": "LI",
+        "countryCode": "(+423)"
+    },
+    {
+        "label": "🇱🇹 Lithuania (+370)",
+        "value": "LT",
+        "countryCode": "(+370)"
+    },
+    {
+        "label": "🇱🇺 Luxembourg (+352)",
+        "value": "LU",
+        "countryCode": "(+352)"
+    },
+    {
+        "label": "🇲🇴 Macao (+853)",
+        "value": "MO",
+        "countryCode": "(+853)"
+    },
+    {
+        "label": "🇲🇰 Macedonia, The Former Yugoslav Republic of (+389)",
+        "value": "MK",
+        "countryCode": "(+389)"
+    },
+    {
+        "label": "🇲🇬 Madagascar (+261)",
+        "value": "MG",
+        "countryCode": "(+261)"
+    },
+    {
+        "label": "🇲🇼 Malawi (+265)",
+        "value": "MW",
+        "countryCode": "(+265)"
+    },
+    {
+        "label": "🇲🇾 Malaysia (+60)",
+        "value": "MY",
+        "countryCode": "(+60)"
+    },
+    {
+        "label": "🇲🇻 Maldives (+960)",
+        "value": "MV",
+        "countryCode": "(+960)"
+    },
+    {
+        "label": "🇲🇱 Mali (+223)",
+        "value": "ML",
+        "countryCode": "(+223)"
+    },
+    {
+        "label": "🇲🇹 Malta (+356)",
+        "value": "MT",
+        "countryCode": "(+356)"
+    },
+    {
+        "label": "🇲🇭 Marshall Islands (+692)",
+        "value": "MH",
+        "countryCode": "(+692)"
+    },
+    {
+        "label": "🇲🇶 Martinique (+596)",
+        "value": "MQ",
+        "countryCode": "(+596)"
+    },
+    {
+        "label": "🇲🇷 Mauritania (+222)",
+        "value": "MR",
+        "countryCode": "(+222)"
+    },
+    {
+        "label": "🇲🇺 Mauritius (+230)",
+        "value": "MU",
+        "countryCode": "(+230)"
+    },
+    {
+        "label": "🇾🇹 Mayotte (+262)",
+        "value": "YT",
+        "countryCode": "(+262)"
+    },
+    {
+        "label": "🇲🇽 Mexico (+52)",
+        "value": "MX",
+        "countryCode": "(+52)"
+    },
+    {
+        "label": "🇫🇲 Micronesia, Federated States of (+691)",
+        "value": "FM",
+        "countryCode": "(+691)"
+    },
+    {
+        "label": "🇲🇩 Moldova, Republic of (+373)",
+        "value": "MD",
+        "countryCode": "(+373)"
+    },
+    {
+        "label": "🇲🇨 Monaco (+377)",
+        "value": "MC",
+        "countryCode": "(+377)"
+    },
+    {
+        "label": "🇲🇳 Mongolia (+976)",
+        "value": "MN",
+        "countryCode": "(+976)"
+    },
+    {
+        "label": "🇲🇪 Montenegro (+382)",
+        "value": "ME",
+        "countryCode": "(+382)"
+    },
+    {
+        "label": "🇲🇸 Montserrat (+1664)",
+        "value": "MS",
+        "countryCode": "(+1664)"
+    },
+    {
+        "label": "🇲🇦 Morocco (+212)",
+        "value": "MA",
+        "countryCode": "(+212)"
+    },
+    {
+        "label": "🇲🇿 Mozambique (+258)",
+        "value": "MZ",
+        "countryCode": "(+258)"
+    },
+    {
+        "label": "🇲🇲 Myanmar (+95)",
+        "value": "MM",
+        "countryCode": "(+95)"
+    },
+    {
+        "label": "🇳🇦 Namibia (+264)",
+        "value": "NA",
+        "countryCode": "(+264)"
+    },
+    {
+        "label": "🇳🇷 Nauru (+674)",
+        "value": "NR",
+        "countryCode": "(+674)"
+    },
+    {
+        "label": "🇳🇵 Nepal (+977)",
+        "value": "NP",
+        "countryCode": "(+977)"
+    },
+    {
+        "label": "🇳🇱 Nederland (+31)",
+        "value": "NL",
+        "countryCode": "(+31)"
+    },
+    {
+        "label": "🇦🇳 Nederland Antilles (+599)",
+        "value": "AN",
+        "countryCode": "(+599)"
+    },
+    {
+        "label": "🇳🇨 New Caledonia (+687)",
+        "value": "NC",
+        "countryCode": "(+687)"
+    },
+    {
+        "label": "🇳🇿 New Zealand (+64)",
+        "value": "NZ",
+        "countryCode": "(+64)"
+    },
+    {
+        "label": "🇳🇮 Nicaragua (+505)",
+        "value": "NI",
+        "countryCode": "(+505)"
+    },
+    {
+        "label": "🇳🇪 Niger (+227)",
+        "value": "NE",
+        "countryCode": "(+227)"
+    },
+    {
+        "label": "🇳🇬 Nigeria (+234)",
+        "value": "NG",
+        "countryCode": "(+234)"
+    },
+    {
+        "label": "🇳🇺 Niue (+683)",
+        "value": "NU",
+        "countryCode": "(+683)"
+    },
+    {
+        "label": "🇳🇫 Norfolk Island (+672)",
+        "value": "NF",
+        "countryCode": "(+672)"
+    },
+    {
+        "label": "🇲🇵 Northern Mariana Islands (+1670)",
+        "value": "MP",
+        "countryCode": "(+1670)"
+    },
+    {
+        "label": "🇳🇴 Norway (+47)",
+        "value": "NO",
+        "countryCode": "(+47)"
+    },
+    {
+        "label": "🇴🇲 Oman (+968)",
+        "value": "OM",
+        "countryCode": "(+968)"
+    },
+    {
+        "label": "🇵🇰 Pakistan (+92)",
+        "value": "PK",
+        "countryCode": "(+92)"
+    },
+    {
+        "label": "🇵🇼 Palau (+680)",
+        "value": "PW",
+        "countryCode": "(+680)"
+    },
+    {
+        "label": "🇵🇸 Palestinian Territory, Occupied (+970)",
+        "value": "PS",
+        "countryCode": "(+970)"
+    },
+    {
+        "label": "🇵🇦 Panama (+507)",
+        "value": "PA",
+        "countryCode": "(+507)"
+    },
+    {
+        "label": "🇵🇬 Papua New Guinea (+675)",
+        "value": "PG",
+        "countryCode": "(+675)"
+    },
+    {
+        "label": "🇵🇾 Paraguay (+595)",
+        "value": "PY",
+        "countryCode": "(+595)"
+    },
+    {
+        "label": "🇵🇪 Peru (+51)",
+        "value": "PE",
+        "countryCode": "(+51)"
+    },
+    {
+        "label": "🇵🇭 Philippines (+63)",
+        "value": "PH",
+        "countryCode": "(+63)"
+    },
+    {
+        "label": "🇵🇳 Pitcairn (+872)",
+        "value": "PN",
+        "countryCode": "(+872)"
+    },
+    {
+        "label": "🇵🇱 Poland (+48)",
+        "value": "PL",
+        "countryCode": "(+48)"
+    },
+    {
+        "label": "🇵🇹 Portugal (+351)",
+        "value": "PT",
+        "countryCode": "(+351)"
+    },
+    {
+        "label": "🇵🇷 Puerto Rico (+1939)",
+        "value": "PR",
+        "countryCode": "(+1939)"
+    },
+    {
+        "label": "🇶🇦 Qatar (+974)",
+        "value": "QA",
+        "countryCode": "(+974)"
+    },
+    {
+        "label": "🇷🇴 Romania (+40)",
+        "value": "RO",
+        "countryCode": "(+40)"
+    },
+    {
+        "label": "🇷🇺 Russia (+7)",
+        "value": "RU",
+        "countryCode": "(+7)"
+    },
+    {
+        "label": "🇷🇼 Rwanda (+250)",
+        "value": "RW",
+        "countryCode": "(+250)"
+    },
+    {
+        "label": "🇷🇪 Réunion (+262)",
+        "value": "RE",
+        "countryCode": "(+262)"
+    },
+    {
+        "label": "🇧🇱 Saint Barthélemy (+590)",
+        "value": "BL",
+        "countryCode": "(+590)"
+    },
+    {
+        "label": "🇸🇭 Saint Helena, Ascension and Tristan Da Cunha (+290)",
+        "value": "SH",
+        "countryCode": "(+290)"
+    },
+    {
+        "label": "🇰🇳 Saint Kitts and Nevis (+1869)",
+        "value": "KN",
+        "countryCode": "(+1869)"
+    },
+    {
+        "label": "🇱🇨 Saint Lucia (+1758)",
+        "value": "LC",
+        "countryCode": "(+1758)"
+    },
+    {
+        "label": "🇲🇫 Saint Martin (+590)",
+        "value": "MF",
+        "countryCode": "(+590)"
+    },
+    {
+        "label": "🇵🇲 Saint Pierre and Miquelon (+508)",
+        "value": "PM",
+        "countryCode": "(+508)"
+    },
+    {
+        "label": "🇻🇨 Saint Vincent and the Grenadines (+1784)",
+        "value": "VC",
+        "countryCode": "(+1784)"
+    },
+    {
+        "label": "🇼🇸 Samoa (+685)",
+        "value": "WS",
+        "countryCode": "(+685)"
+    },
+    {
+        "label": "🇸🇲 San Marino (+378)",
+        "value": "SM",
+        "countryCode": "(+378)"
+    },
+    {
+        "label": "🇸🇹 Sao Tome and Principe (+239)",
+        "value": "ST",
+        "countryCode": "(+239)"
+    },
+    {
+        "label": "🇸🇦 Saudi Arabia (+966)",
+        "value": "SA",
+        "countryCode": "(+966)"
+    },
+    {
+        "label": "🇸🇳 Senegal (+221)",
+        "value": "SN",
+        "countryCode": "(+221)"
+    },
+    {
+        "label": "🇷🇸 Serbia (+381)",
+        "value": "RS",
+        "countryCode": "(+381)"
+    },
+    {
+        "label": "🇸🇨 Seychelles (+248)",
+        "value": "SC",
+        "countryCode": "(+248)"
+    },
+    {
+        "label": "🇸🇱 Sierra Leone (+232)",
+        "value": "SL",
+        "countryCode": "(+232)"
+    },
+    {
+        "label": "🇸🇬 Singapore (+65)",
+        "value": "SG",
+        "countryCode": "(+65)"
+    },
+    {
+        "label": "🇸🇰 Slovakia (+421)",
+        "value": "SK",
+        "countryCode": "(+421)"
+    },
+    {
+        "label": "🇸🇮 Slovenia (+386)",
+        "value": "SI",
+        "countryCode": "(+386)"
+    },
+    {
+        "label": "🇸🇧 Solomon Islands (+677)",
+        "value": "SB",
+        "countryCode": "(+677)"
+    },
+    {
+        "label": "🇸🇴 Somalia (+252)",
+        "value": "SO",
+        "countryCode": "(+252)"
+    },
+    {
+        "label": "🇿🇦 South Africa (+27)",
+        "value": "ZA",
+        "countryCode": "(+27)"
+    },
+    {
+        "label": "🇬🇸 South Georgia and the South Sandwich Islands (+500)",
+        "value": "GS",
+        "countryCode": "(+500)"
+    },
+    {
+        "label": "🇪🇸 Spain (+34)",
+        "value": "ES",
+        "countryCode": "(+34)"
+    },
+    {
+        "label": "🇱🇰 Sri Lanka (+94)",
+        "value": "LK",
+        "countryCode": "(+94)"
+    },
+    {
+        "label": "🇸🇩 Sudan (+249)",
+        "value": "SD",
+        "countryCode": "(+249)"
+    },
+    {
+        "label": "🇸🇸 South Sudan (+211)",
+        "value": "SS",
+        "countryCode": "(+211)"
+    },
+    {
+        "label": "🇸🇷 Suriname (+597)",
+        "value": "SR",
+        "countryCode": "(+597)"
+    },
+    {
+        "label": "🇸🇯 Svalbard and Jan Mayen (+47)",
+        "value": "SJ",
+        "countryCode": "(+47)"
+    },
+    {
+        "label": "🇸🇿 Swaziland (+268)",
+        "value": "SZ",
+        "countryCode": "(+268)"
+    },
+    {
+        "label": "🇸🇪 Sweden (+46)",
+        "value": "SE",
+        "countryCode": "(+46)"
+    },
+    {
+        "label": "🇨🇭 Switzerland (+41)",
+        "value": "CH",
+        "countryCode": "(+41)"
+    },
+    {
+        "label": "🇸🇾 Syrian Arab Republic (+963)",
+        "value": "SY",
+        "countryCode": "(+963)"
+    },
+    {
+        "label": "🇹🇼 Taiwan, Province of China (+886)",
+        "value": "TW",
+        "countryCode": "(+886)"
+    },
+    {
+        "label": "🇹🇯 Tajikistan (+992)",
+        "value": "TJ",
+        "countryCode": "(+992)"
+    },
+    {
+        "label": "🇹🇿 Tanzania, United Republic of (+255)",
+        "value": "TZ",
+        "countryCode": "(+255)"
+    },
+    {
+        "label": "🇹🇭 Thailand (+66)",
+        "value": "TH",
+        "countryCode": "(+66)"
+    },
+    {
+        "label": "🇹🇱 Timor-Leste (+670)",
+        "value": "TL",
+        "countryCode": "(+670)"
+    },
+    {
+        "label": "🇹🇬 Togo (+228)",
+        "value": "TG",
+        "countryCode": "(+228)"
+    },
+    {
+        "label": "🇹🇰 Tokelau (+690)",
+        "value": "TK",
+        "countryCode": "(+690)"
+    },
+    {
+        "label": "🇹🇴 Tonga (+676)",
+        "value": "TO",
+        "countryCode": "(+676)"
+    },
+    {
+        "label": "🇹🇹 Trinidad and Tobago (+1868)",
+        "value": "TT",
+        "countryCode": "(+1868)"
+    },
+    {
+        "label": "🇹🇳 Tunisia (+216)",
+        "value": "TN",
+        "countryCode": "(+216)"
+    },
+    {
+        "label": "🇹🇷 Turkey (+90)",
+        "value": "TR",
+        "countryCode": "(+90)"
+    },
+    {
+        "label": "🇹🇲 Turkmenistan (+993)",
+        "value": "TM",
+        "countryCode": "(+993)"
+    },
+    {
+        "label": "🇹🇨 Turks and Caicos Islands (+1649)",
+        "value": "TC",
+        "countryCode": "(+1649)"
+    },
+    {
+        "label": "🇹🇻 Tuvalu (+688)",
+        "value": "TV",
+        "countryCode": "(+688)"
+    },
+    {
+        "label": "🇺🇬 Uganda (+256)",
+        "value": "UG",
+        "countryCode": "(+256)"
+    },
+    {
+        "label": "🇺🇦 Ukraine (+380)",
+        "value": "UA",
+        "countryCode": "(+380)"
+    },
+    {
+        "label": "🇦🇪 United Arab Emirates (+971)",
+        "value": "AE",
+        "countryCode": "(+971)"
+    },
+    {
+        "label": "🇬🇧 United Kingdom (+44)",
+        "value": "GB",
+        "countryCode": "(+44)"
+    },
+    {
+        "label": "🇺🇸 United States (+1)",
+        "value": "US",
+        "countryCode": "(+1)"
+    },
+    {
+        "label": "🇺🇾 Uruguay (+598)",
+        "value": "UY",
+        "countryCode": "(+598)"
+    },
+    {
+        "label": "🇺🇿 Uzbekistan (+998)",
+        "value": "UZ",
+        "countryCode": "(+998)"
+    },
+    {
+        "label": "🇻🇺 Vanuatu (+678)",
+        "value": "VU",
+        "countryCode": "(+678)"
+    },
+    {
+        "label": "🇻🇪 Venezuela, Bolivarian Republic of (+58)",
+        "value": "VE",
+        "countryCode": "(+58)"
+    },
+    {
+        "label": "🇻🇳 Viet Nam (+84)",
+        "value": "VN",
+        "countryCode": "(+84)"
+    },
+    {
+        "label": "🇻🇬 Virgin Islands, British (+1284)",
+        "value": "VG",
+        "countryCode": "(+1284)"
+    },
+    {
+        "label": "🇻🇮 Virgin Islands, U.S. (+1340)",
+        "value": "VI",
+        "countryCode": "(+1340)"
+    },
+    {
+        "label": "🇼🇫 Wallis and Futuna (+681)",
+        "value": "WF",
+        "countryCode": "(+681)"
+    },
+    {
+        "label": "🇾🇪 Yemen (+967)",
+        "value": "YE",
+        "countryCode": "(+967)"
+    },
+    {
+        "label": "🇿🇲 Zambia (+260)",
+        "value": "ZM",
+        "countryCode": "(+260)"
+    },
+    {
+        "label": "🇿🇼 Zimbabwe (+263)",
+        "value": "ZW",
+        "countryCode": "(+263)"
+    },
+    {
+        "label": "🇦🇽 Åland Islands (+358)",
+        "value": "AX",
+        "countryCode": "(+358)"
+    }
+]
